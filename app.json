@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "native-jobs",
+    "slug": "native-jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a906b54e-00c2-44b6-ad0b-99048e059372"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a906b54e-00c2-44b6-ad0b-99048e059372"
+    },
+    "android": {
+      "package": "com.apbcafrica.nativejobs"
+    },
+    "ios": {}
+  }
+}
